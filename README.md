@@ -1,1 +1,1 @@
-# TestMailingProject001
+# TestMailingProject001 - Exploring GitHub 
